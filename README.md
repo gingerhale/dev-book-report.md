@@ -1,8 +1,8 @@
 # dev-book-report.md
-Video: Learn CSS Position In 9 Minutes 
-Kyle Cook (Web Dev Simplified on YouTube)
-April 30, 2019
-https://www.youtube.com/watch?v=jx5jmI0UlXU 
+- Video: Learn CSS Position In 9 Minutes 
+- Kyle Cook (Web Dev Simplified on YouTube)
+- April 30, 2019
+- https://www.youtube.com/watch?v=jx5jmI0UlXU 
 
 Article Interest
 - I first came across this video looking into what makes cards/elements move up on the page as you scroll down, but then stop once they hit the top and stay fixed there until you scroll back up to their original position. That is what made me look into the concept and then I found out it's all based on positioning. More specifically to my example, sticky positioning. This video ended up solving my question in an easy to understand way, while also providing lots of information about how to position and make or break your code.
